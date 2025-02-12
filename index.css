@@ -3,18 +3,6 @@ body {
     width: 100%;
     max-width: 900px;
     margin: 0 auto;
-
-    background: #fdc830;
-    background: -webkit-linear-gradient(
-        to right,
-        #f37335,
-        #fdc830
-    );
-    background: linear-gradient(
-        to right,
-        #f37335,
-        #fdc830
-    );
 }
 img {
     object-fit: cover;
